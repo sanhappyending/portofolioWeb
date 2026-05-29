@@ -30,12 +30,21 @@ const skills = [
 
 const projects: Gallery4Item[] = [
   {
-    id: "fundamentalAnalisisData",
-    title: "Fundamental Analisis Data",
+    id: "skillMatch.AI-dashboard",
+    title: "SkillMatch.AI Dashboard",
+    description:
+      "Interactive Streamlit dashboard for exploring job market trends, skill demand analysis, and AI-based career insights using job vacancy datasets.",
+    href: "https://giga-bikesharing.streamlit.app/",
+    image: "/images/skillMatch.AI-dashboard.jpg",
+    cta: "View project",
+  },
+  {
+    id: "bikeSharing-dashboard",
+    title: "Bike Sharing Dashboard",
     description:
       "Interactive Bike Sharing dashboard with data visualization, weather analysis, and rental trend insights using Python and Streamlit.",
     href: "https://giga-bikesharing.streamlit.app/",
-    image: "/images/fundamentalAnalisisData.jpg",
+    image: "/images/bikeSharing-dashboard.jpg",
     cta: "View project",
   },
 ];
