@@ -45,8 +45,8 @@ function HeroSection() {
     <section id="home" className="relative overflow-hidden">
       <SmoothScrollHero
         scrollHeight={620}
-        desktopImage="/images/bg-web.jpeg"
-        mobileImage="/images/bg-mobile.jpeg"
+        desktopImage="/images/bg-web.png"
+        mobileImage="/images/bg-mobile.png"
         initialClipPercentage={16}
         finalClipPercentage={84}
       />
