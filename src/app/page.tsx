@@ -47,6 +47,33 @@ const projects: Gallery4Item[] = [
     image: "/images/bikeSharing-dashboard.jpg",
     cta: "View project",
   },
+  {
+    id: "project-mathDataScience",
+    title: "Belajar Matematika untuk Data Science",
+    description:
+      "Project implementing probability, statistical distributions, Naive Bayes, and A/B Testing using Python for mathematics applications in Data Science and Machine Learning.",
+    href: "https://github.com/sanhappyending/project-mathDataScience",
+    image: "/images/project-mathDataScience.jpg",
+    cta: "View repository",
+  },
+  {
+    id: "project-fundaPemrosesanData",
+    title: "Belajar Fundamental Pemrosesan Data",
+    description:
+      "Simple ETL pipeline project using Python to extract, clean, and store competitor fashion product data through extract, transform, and load processes.",
+    href: "https://github.com/sanhappyending/project-fundaPemrosesanData",
+    image: "/images/project-fundaPemrosesanData.jpg",
+    cta: "View repository",
+  },
+  {
+    id: "project-BLMP",
+    title: "Belajar Machine Learning untuk Pemula",
+    description:
+      "Machine learning project combining clustering and classification to build predictive models based on unsupervised learning results using banking transaction datasets.",
+    href: "https://github.com/sanhappyending/project-BLMP",
+    image: "/images/project-BLMP.jpg",
+    cta: "View repository",
+  },
 ];
 
 function HeroSection() {
