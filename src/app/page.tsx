@@ -34,7 +34,7 @@ const projects: Gallery4Item[] = [
     title: "SkillMatch.AI Dashboard",
     description:
       "Interactive Streamlit dashboard for exploring job market trends, skill demand analysis, and AI-based career insights using job vacancy datasets.",
-    href: "https://giga-bikesharing.streamlit.app/",
+    href: "https://dashboard-skillmatchai.streamlit.app/",
     image: "/images/skillMatch.AI-dashboard.jpg",
     cta: "View project",
   },
